@@ -1,6 +1,6 @@
 # Hi, I'm Hanya Batra 👋
 
-### Software Developer | AI Enthusiast | Open Source Contributor
+### AI Enthusiast | Open Source Contributor  | Software Engineering
 
 I'm a B.Tech student at **IGDTUW** pursuing Electronics & Communication Engineering with a specialization in Artificial Intelligence.
 
