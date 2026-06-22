@@ -1,16 +1,156 @@
-## Hi there 👋
+# Hi, I'm Hanya Batra 👋
 
-<!--
-**hanya98/hanya98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | AI Enthusiast | Open Source Contributor
 
-Here are some ideas to get you started:
+I'm a B.Tech student at **IGDTUW** pursuing Electronics & Communication Engineering with a specialization in Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building products that solve real-world problems, from civic-tech platforms to AI-powered intelligence systems. My interests lie at the intersection of **Software Engineering, Artificial Intelligence, and Open Source**.
+
+---
+
+## 🚀 About Me
+
+* 🎓 B.Tech (ECE-AI) @ IGDTUW | CGPA: 9.4
+* 💻 Strong foundation in Data Structures & Algorithms
+* 🤖 Building AI-powered applications and intelligent systems
+* 🌱 Active Open Source Contributor
+* 🏆 Hackathon Competitor
+* 🔍 Analyst working on Threat Intelligence & OSINT Research
+* 🚀 AI/ML & Software Development Intern at Vicharanshala Lab, IIT Ropar
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+* Python
+* C++
+* JavaScript
+
+### Web Development
+
+* HTML5
+* CSS3
+* Node.js
+* Express.js
+* REST APIs
+
+### Databases
+
+* MySQL
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+
+### Domains
+
+* Software Engineering
+* Artificial Intelligence
+* Open Source Development
+* Threat Intelligence
+* OSINT Research
+
+---
+
+## 💼 Experience
+
+### AI/ML & Software Development Intern — Vicharanshala Lab, IIT Ropar
+
+* Developing AI/ML and software solutions for agriculture, food systems, and education.
+* Contributing to scalable open-source platforms and impactful technology initiatives.
+
+### Analyst — Vankadel
+
+* Conducting threat intelligence research on subscription fraud and AI service resale ecosystems.
+* Producing structured OSINT-based intelligence reports and actionable recommendations.
+
+---
+
+## 🚀 Featured Projects
+
+### Civitas – Smart Political CRM
+
+A centralized citizen grievance platform with automated complaint routing and AI-powered analytics.
+
+**Highlights**
+
+* Reduced complaint processing time by 70%
+* Built full-stack architecture using Node.js and Express
+* Integrated APIs and analytics systems end-to-end
+
+### EquiSense – AI-Powered Market Intelligence Platform
+
+Financial intelligence platform leveraging sentiment analysis and market indicators.
+
+**Highlights**
+
+* Integrated FinBERT-based sentiment analysis
+* Aggregated financial news from multiple sources
+* Generated trading insights using NIFTY 50, VIX, and Fear/Greed indices
+
+---
+
+## 🌟 Open Source
+
+### Winter Summer of Code (WSOC'26)
+
+* Resolved 10+ issues
+* Contributed features across multiple repositories
+
+### Hacktoberfest 2025
+
+* 15+ contributions
+* Fixed critical bugs and shipped impactful features
+
+### GirlScript Summer of Code (GSSOC'25)
+
+* Fixed 15+ issues across 5 repositories
+* Improved efficiency and functionality of production projects
+
+---
+
+## 🏅 Leadership
+
+### Google Student Ambassador
+
+Promoting AI adoption through workshops, campaigns, and community initiatives.
+
+### Vice President — Youth Economy Lab (Indian Chapter)
+
+Leading chapter operations, collaborations, and student engagement.
+
+### Core Team Lead — noClue
+
+Managing hackathon operations, partnerships, and community growth across global initiatives.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanya98\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanya98\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/hanya98
+* LinkedIn: https://www.linkedin.com/in/hanya-batra
+* Email: [hanyabatra@gmail.com](mailto:hanyabatra@gmail.com)
+
+---
+
+### Current Focus
+
+* Data Structures & Algorithms
+* Backend Engineering
+* System Design
+* Artificial Intelligence Applications
+* Open Source Contributions
+
+*"Building technology that creates measurable impact."*
