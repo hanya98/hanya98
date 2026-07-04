@@ -62,12 +62,3 @@ Financial intelligence platform leveraging sentiment analysis and market indicat
 
 ---
 
-### Current Focus
-
-* Data Structures & Algorithms
-* Backend Engineering
-* System Design
-* Artificial Intelligence Applications
-* Open Source Contributions
-
-*"Building technology that creates measurable impact."*
