@@ -1,76 +1,64 @@
-````markdown
-## about_me.ts
+# Hi, I'm Hanya Batra 👋
 
-```typescript
-const hanya = {
-  name: "Hanya Batra",
-  role: "Software Engineer & AI Builder",
+### AI Enthusiast | Open Source Contributor  | Software Engineering
 
-  education: {
-    university: "IGDTUW",
-    degree: "B.Tech ECE (AI)",
-    cgpa: 9.4
-  },
+I'm a B.Tech student at **IGDTUW** pursuing Electronics & Communication Engineering with a specialization in Artificial Intelligence.
 
-  interests: [
-    "Artificial Intelligence",
-    "Software Engineering",
-    "Open Source",
-    "Threat Intelligence",
-    "Civic Tech"
-  ],
-
-  currently_building: [
-    "AI-powered applications",
-    "Developer tools",
-    "Intelligent analytics platforms"
-  ],
-
-  currently_learning: [
-    "Machine Learning",
-    "System Design",
-    "Advanced DSA",
-    "Cloud Technologies"
-  ],
-
-  hackathons: "Always building something new 🚀",
-
-  fun_fact:
-    "I usually have 15 tabs open—and somehow know where everything is."
-}
-```
+I enjoy building products that solve real-world problems, from civic-tech platforms to AI-powered intelligence systems. My interests lie at the intersection of **Software Engineering, Artificial Intelligence, and Open Source**.
 
 ---
 
-## Tech Stack
+## 🚀 About Me
 
-<p align="left">
+* 🎓 B.Tech (ECE-AI) @ IGDTUW | CGPA: 9.4
+* 💻 Strong foundation in Data Structures & Algorithms
+* 🤖 Building AI-powered applications and intelligent systems
+* 🌱 Active Open Source Contributor
+* 🏆 Hackathon Competitor
+* 🔍 Analyst working on Threat Intelligence & OSINT Research
+* 🚀 AI/ML & Software Development Intern at Vicharanshala Lab, IIT Ropar
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+---
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+## 🚀 Featured Projects
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+### Civitas – Smart Political CRM
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+A centralized citizen grievance platform with automated complaint routing and AI-powered analytics.
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+**Highlights**
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+* Reduced complaint processing time by 70%
+* Built full-stack architecture using Node.js and Express
+* Integrated APIs and analytics systems end-to-end
 
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+### EquiSense – AI-Powered Market Intelligence Platform
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+Financial intelligence platform leveraging sentiment analysis and market indicators.
 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+**Highlights**
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+* Integrated FinBERT-based sentiment analysis
+* Aggregated financial news from multiple sources
+* Generated trading insights using NIFTY 50, VIX, and Fear/Greed indices
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+---
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
-</p>
-````
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanya98\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanya98\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/hanya98
+* LinkedIn: https://www.linkedin.com/in/hanya-batra
+* Email: [hanyabatra@gmail.com](mailto:hanyabatra@gmail.com)
+
+---
+
