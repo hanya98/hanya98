@@ -1,4 +1,3 @@
-```markdown
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
@@ -185,42 +184,3 @@ Financial intelligence platform leveraging sentiment analysis and market indicat
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:5B8DEF&height=150&section=footer"/>
 
 </p>
-```
-
-### 🐍 Enable the animated contribution snake
-
-Create this file in your repository:
-
-```
-.github/workflows/snake.yml
-```
-
-Paste:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: hanya98
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
