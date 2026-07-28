@@ -1,0 +1,30 @@
+name: Generate Pac-Man Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Pac-Man graph
+        uses: matchai/pacman-contribution-graph@v3
+        with:
+          github_user_name: hanya98
+          output_path: pacman-contribution-graph.svg
+          theme: "classic"
+
+      - name: Push output to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
