@@ -39,7 +39,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'pacman'
+          games: 'pacman,minesweeper'
 
       - name: fix permissions after pacman step
         run: sudo chmod -R 777 dist
